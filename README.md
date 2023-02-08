@@ -7,8 +7,7 @@
     - Completed Bachelor’s degree in Computer Engineering, GPA (Mar 2019 ~ Feb 2023) <br>
     - Completed AWS Academy Cloud Foundation course, scored 90.71/100 (Jan 2023 ~ Fab 2023)<br>
     - Completed AWS Academy Cloud Architect Course with hands on labs experience (Jan 2023 ~ Fab 2023) <br>
-    
-    <img src="//d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png">
+   
     <img src = "https://images.credly.com/size/100x100/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png">&nbsp;
     <img src = "https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
   </div>
