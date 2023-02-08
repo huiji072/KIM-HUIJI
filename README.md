@@ -10,9 +10,10 @@
 
 
 ## Exprience
-<img src="https://www.credly.com/badges/ffbdfcdb-e5f5-4deb-ba5f-da5f9e65005f/public_url" />
-<img src="https://www.credly.com/badges/13e31b07-3930-4d29-9d47-bf914a718486/public_url" />
-<img src="https://www.credly.com/badges/4213a6b2-76fb-4a65-8f77-7426b812be23/public_url" />
+![aws-academy-graduate-aws-academy-cloud-foundations](https://user-images.githubusercontent.com/76933597/217517635-8362ad92-7039-4ec3-80e3-3e2a33e2d9e6.png)
+![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/76933597/217517658-9eacd3ad-b832-4a96-984c-2a61fbfa1534.png)
+![aws-academy-graduate-aws-academy-cloud-architecting](https://user-images.githubusercontent.com/76933597/217517714-01e64fcd-04eb-4936-bd5e-a8bbdfeb23a1.png)
+
   
 ## 🛠️ Tech Stack
 <div align="left">
