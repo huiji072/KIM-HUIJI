@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiji072&show_icons=true&theme=dark)
 
-  <div align="left">
+  
 # About me
 ## Backend Developer
   - 컴퓨터공학과  (Mar 2019 ~ Feb 2023) <br>
@@ -42,18 +42,14 @@
 ### 💻 OS 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
-  
-  
-  <br>
 
-  </div>
 
-  ## 💡Contacts
-  ✉️ Email <a href="mailto:khm970514@gmail.com">fmti0720@gmail.com</a>
+## 💡Contacts
+✉️ Email <a href="mailto:khm970514@gmail.com">fmti0720@gmail.com</a>
   
 
 
 
   
-</div>
+
 
