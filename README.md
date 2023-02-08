@@ -1,10 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiji072&show_icons=true&theme=dark)
 
 
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&desc=Arciel%20Github%20Repo&descAlign=70&descAlignY=30" />
-  
 # About me
   ## Backend Developer
   <div align="left">
