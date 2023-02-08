@@ -12,6 +12,7 @@
   
   ## 🛠️ Tech Stack
   <div align="left">
+#3776AB
 
   </div>
 
