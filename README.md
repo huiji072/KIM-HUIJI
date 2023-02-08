@@ -4,9 +4,9 @@
 # About me
   ## Backend Developer
   <div align="left">
-    - Completed Bachelor’s degree in Computer Engineering, GPA (Mar 2019 ~ Feb 2023) <br>
-    - Completed AWS Academy Cloud Foundation course, scored 90.71/100 (Jan 2023 ~ Fab 2023)<br>
-    - Completed AWS Academy Cloud Architect Course with hands on labs experience (Jan 2023 ~ Fab 2023) <br>
+    - Completed Bachelor’s degree in Computer Engineering (Mar 2019 ~ Feb 2023) <br>
+    - 
+    - AWS E2W Cloud Skills up program (Jan 2023 ~ Feb 2023) <br>
 
 
 ## Certification
