@@ -1,12 +1,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiji072&show_icons=true&theme=dark)
 
-
-# About me
-  ## Backend Developer
   <div align="left">
-    - Completed Bachelor’s degree in Computer Engineering (Mar 2019 ~ Feb 2023) <br>
-    - 
-    - AWS E2W Cloud Skills up program (Jan 2023 ~ Feb 2023) <br>
+# About me
+## Backend Developer
+  - 컴퓨터공학과  (Mar 2019 ~ Feb 2023) <br>
+  - 현장실습 (Jun 2022 ~ Jul 2022)
+  - 현장실습 (Jun 2021 ~ Aug 2021)
+  - 캡스톤 대회 수상
+  - AWS E2W Cloud Skills up 프로그램 (Jan 2023 ~ Feb 2023) <br>
 
 
 ## Certification
