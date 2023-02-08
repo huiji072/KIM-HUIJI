@@ -14,8 +14,11 @@
 <div align="left">
   
 ### 👩‍💻 Languages
-<img src="{[BadgeURLHere](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)}">
-<br/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+">
+  
+
+  
 https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
   
 https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white
