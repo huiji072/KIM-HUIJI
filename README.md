@@ -4,11 +4,10 @@
 # About me
 ## Backend Developer
   - 컴퓨터공학과  (Mar 2019 ~ Feb 2023) <br>
-  - 현장실습 (Jun 2022 ~ Jul 2022)
-  - 현장실습 (Jun 2021 ~ Aug 2021)
-  - 캡스톤 대회 수상
+  - 현장실습 (Jun 2022 ~ Jul 2022) <br>
+  - 현장실습 (Jun 2021 ~ Aug 2021) <br>
+  - 캡스톤 대회 수상 <br>
   - AWS E2W Cloud Skills up 프로그램 (Jan 2023 ~ Feb 2023) <br>
-
 
 ## Certification
 ![aws-academy-graduate-aws-academy-cloud-foundations](https://user-images.githubusercontent.com/76933597/217517635-8362ad92-7039-4ec3-80e3-3e2a33e2d9e6.png)
