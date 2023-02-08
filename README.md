@@ -9,7 +9,7 @@
     - Completed AWS Academy Cloud Architect Course with hands on labs experience (Jan 2023 ~ Fab 2023) <br>
 
 
-## Exprience
+## Certification
 ![aws-academy-graduate-aws-academy-cloud-foundations](https://user-images.githubusercontent.com/76933597/217517635-8362ad92-7039-4ec3-80e3-3e2a33e2d9e6.png)
 ![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/76933597/217517658-9eacd3ad-b832-4a96-984c-2a61fbfa1534.png)
 ![aws-academy-graduate-aws-academy-cloud-architecting](https://user-images.githubusercontent.com/76933597/217517714-01e64fcd-04eb-4936-bd5e-a8bbdfeb23a1.png)
