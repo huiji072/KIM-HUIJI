@@ -8,7 +8,11 @@
     - Completed AWS Academy Cloud Foundation course, scored 90.71/100 (Jan 2023 ~ Fab 2023)<br>
     - Completed AWS Academy Cloud Architect Course with hands on labs experience (Jan 2023 ~ Fab 2023) <br>
 
-  
+
+## Exprience
+<img src="https://www.credly.com/badges/ffbdfcdb-e5f5-4deb-ba5f-da5f9e65005f/public_url" />
+<img src="https://www.credly.com/badges/13e31b07-3930-4d29-9d47-bf914a718486/public_url" />
+<img src="https://www.credly.com/badges/4213a6b2-76fb-4a65-8f77-7426b812be23/public_url" />
   
 ## 🛠️ Tech Stack
 <div align="left">
