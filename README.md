@@ -10,22 +10,14 @@
 
   
   
-  ## 🛠️ Language and Tools
+  ## 🛠️ Tech Stack
   <div align="left">
-  OS<br>
-    <br>
-    
-  Language<br>
-    <br>
-    
-   Framework<br>
-    <br>
-    
-    Etc<br>
+
   </div>
 
-  ## Contacts
+  ## 💡Contacts
   ✉️ Email <a href="mailto:khm970514@gmail.com">fmti0720@gmail.com</a>
+  
 
 
   
