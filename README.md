@@ -7,7 +7,8 @@
   - 현장실습 (Jun 2022 ~ Jul 2022) <br>
   - 현장실습 (Jun 2021 ~ Aug 2021) <br>
   - 캡스톤 대회 수상 <br>
-  - AWS E2W Cloud Skills up 프로그램 (Jan 2023 ~ Feb 2023) <br>
+  - AWS Academy Cloud Foundation (Jan 2023 ~ Feb 2023) <br>
+  - AWS Academy Cloud Architecting (Jan 2023 ~ Feb 2023) <br>
 
 ## Certification
 <img src = "https://images.credly.com/size/100x100/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png">&nbsp;
